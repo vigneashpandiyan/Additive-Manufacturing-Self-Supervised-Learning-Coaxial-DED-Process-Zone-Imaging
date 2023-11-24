@@ -1,7 +1,10 @@
 # Additive-Manufacturing-Self-Supervised-Learning-Coaxial-DED_Process-Zone-Imaging
 Real-Time Monitoring and Quality Assurance for Laser-Based Directed Energy Deposition: Integrating Coaxial Imaging and Self-Supervised Deep Learning Framework
+
+![DED process zone information](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Learning-Coaxial-DED-Process-Zone-Imaging/assets/39007209/5b899596-ade5-40dc-bf44-ff77896544bc)
+
 # Journal link
-![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning-Acoustic-Emission/assets/39007209/95f69fd7-999f-46d6-9ebb-8cbc25f9a237)
+
 # Overview
 
 
@@ -20,7 +23,10 @@ algorithms in quantifying the quality of AM metallic parts during fabrication. T
 vision systems and self-learning algorithms presents a novel contribution, particularly in the context of the L-DED
 process. The findings open avenues for further research and development in AM process monitoring, emphasizing the
 importance of self-supervised in-situ monitoring techniques in ensuring part quality during fabrication.
-![Experimental](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning-Acoustic-Emission/assets/39007209/ae39aefb-d74b-4507-87e5-991a0c0cb819)
+
+![Graphical abstract(1)](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Learning-Coaxial-DED-Process-Zone-Imaging/assets/39007209/0ee15026-dde5-4176-a036-26707a9ada11)
+
+
 
 
 
