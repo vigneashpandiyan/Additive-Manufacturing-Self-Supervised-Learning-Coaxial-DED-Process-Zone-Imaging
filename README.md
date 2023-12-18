@@ -5,6 +5,8 @@ Real-Time Monitoring and Quality Assurance for Laser-Based Directed Energy Depos
 
 # Journal link
 
+10.1007/s10845-023-02279-x
+
 # Overview
 
 
