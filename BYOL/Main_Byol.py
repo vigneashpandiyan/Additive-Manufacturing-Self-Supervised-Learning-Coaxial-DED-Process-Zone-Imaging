@@ -33,7 +33,7 @@ print(torch.cuda.is_available())
 
 
 #%%
-# Data--> https://polybox.ethz.ch/index.php/s/HUcJ7cJ18K0MrEn 
+# Data--> https://zenodo.org/records/10421423
 # datadir = '../Data/train'   #place data inside 
 #           '../Data/test'  
 
