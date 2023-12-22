@@ -5,7 +5,7 @@ Real-Time Monitoring and Quality Assurance for Laser-Based Directed Energy Depos
 
 # Journal link
 
-10.1007/s10845-023-02279-x
+[10.1007/s10845-023-02279-x](https://link.springer.com/article/10.1007/s10845-023-02279-x)
 
 # Overview
 
@@ -59,6 +59,9 @@ python Main_Transformer.py
   title={Real-time monitoring and quality assurance for laser-based directed energy deposition: integrating co-axial imaging and self-supervised deep learning framework},
   author={Vigneashwara Pandiyan, Di Cui, Roland Axel Richter, Annapaola Parrilli and Marc Leparoux.},
   journal={Journal of Intelligent Manufacturing},
+  ISSN={1572-8145},
+  DOI={10.1007/s10845-023-02279-x},
+  Date={2023/12/21},
   year={2023},
   publisher={Springer}
 }
