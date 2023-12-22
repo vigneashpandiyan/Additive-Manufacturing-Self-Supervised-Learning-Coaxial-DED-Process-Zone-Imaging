@@ -1,5 +1,6 @@
 # Additive-Manufacturing-Self-Supervised-Learning-Coaxial-DED_Process-Zone-Imaging
 Real-Time Monitoring and Quality Assurance for Laser-Based Directed Energy Deposition: Integrating Coaxial Imaging and Self-Supervised Deep Learning Framework
+Author: Pandiyan, Vigneashwara, Cui, Di, Richter, Roland Axel, Parrilli, Annapaola and Leparoux, Marc
 
 ![DED process zone information](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Learning-Coaxial-DED-Process-Zone-Imaging/assets/39007209/5b899596-ade5-40dc-bf44-ff77896544bc)
 
